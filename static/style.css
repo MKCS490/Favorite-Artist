@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+body {
+     background: url(https://www.publicdomainpictures.net/pictures/130000/velka/yellow-orange-background.jpg);
+     background-repeat: no-repeat;
+     background-size: 1600px 900px;
+     background-size: cover;
+}
+
+h1{
+    font-family: 'Fredoka One';
+    color: #602020;
+    font-size: 60;
+    text-align: center;
+    font-weight: bolder;
+    padding-top: -1em;
+    border: 2px solid #602020
+}
+
+h2{
+    /* Produced By*/
+    font-family: 'Fredoka One';
+    color: #602020;
+    font-size: 50;
+    padding-top: -6em;
+    font-weight: lighter;
+    padding-left: 20%;
+}
+h3{
+    /*Artist Name*/
+    font-family: 'Fredoka One';
+    color: #602020;
+    font-size: 45;
+    text-align: justify;
+    padding-top: -4em;
+    font-weight: 100;
+    padding-left: 40%;
+}
+img{
+  position: absolute;
+  display: block;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  top: 350px; 
+  right: 700;
+  width: 600;
+  height: 400;
+}
+#spotify a{
+    width:800;
+    font-family: 'Fredoka One';
+    color: #602020;
+    font-size: 40;
+    font-weight: bold;
+    position:absolute;
+    right:550;
+    top:830px;
+}
+#lyrics a{
+    width:800;
+    font-family: 'Fredoka One';
+    color: #602020;
+    font-size: 40;
+    font-weight: bold;
+    position:absolute;
+    right:530;
+    top:900px;
+}
